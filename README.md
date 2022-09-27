@@ -1,10 +1,12 @@
-# Pool prize winner of Eth-global: Road to Web3 hackathon
 
-```sh
-Checkout the demo at [**Eth-Global**](https://showcase.ethglobal.com/roadtoweb3/world-of-wordle)
+# Wordle game with Web3 touch using Play To Earn wow tokens and nfts
+```
+Pool prize winner of Eth-global: Road to Web3 hackathon
 ```
 
-## Wordle game with Web3 touch using Play To Earn wow tokens and nfts
+
+Checkout the demo at [**Eth-Global**](https://showcase.ethglobal.com/roadtoweb3/world-of-wordle)
+
 
 ## Play to earn WOW tokens
 - 🔥 Burn WOW and play the guessing game
