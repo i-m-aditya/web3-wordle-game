@@ -1,9 +1,11 @@
 # Pool prize winner of Eth-global: Road to Web3 hackathon
+```
 https://showcase.ethglobal.com/roadtoweb3/world-of-wordle
+```
 
 ## Bringing wordle into web3 using play to earn wow tokens and nfts.
 
-##Play to earn WOW tokens
+## Play to earn WOW tokens
 - 🔥 Burn WOW and play the guessing game
 - 💸 Earn WOW by winning the game and vice versa.
 - ⛏Stake NFT to earn wow rewards
