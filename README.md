@@ -7,7 +7,9 @@ Pool prize winner of Eth-global: Road to Web3 hackathon
 
 Checkout the demo at [**Eth-Global**](https://showcase.ethglobal.com/roadtoweb3/world-of-wordle)
 
-
+```
+Unlock the secret of a blockchain-based decentralized wordle game, where users can earn NFTs for playing. Compete and increase/decrease NFT levels, unlocking higher rewards by staking tokens. A new chance awaits every day, can you find the key?
+```
 
 
 ## Play to earn WOW tokens
