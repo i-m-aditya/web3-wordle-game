@@ -1,5 +1,5 @@
 
-# Wordle game with Web3 touch using Play To Earn wow tokens and nfts
+# Web3 Wordle
 ```
 Pool prize winner of Eth-global: Road to Web3 hackathon
 ```
