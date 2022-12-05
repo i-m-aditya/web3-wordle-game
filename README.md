@@ -8,6 +8,8 @@ Pool prize winner of Eth-global: Road to Web3 hackathon
 Checkout the demo at [**Eth-Global**](https://showcase.ethglobal.com/roadtoweb3/world-of-wordle)
 
 
+
+
 ## Play to earn WOW tokens
 - 🔥 Burn WOW and play the guessing game.
 - 💸 Earn WOW by winning the game and vice versa.
